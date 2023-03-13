@@ -1,0 +1,32 @@
+using vite; new generation tool faster than react 
+
+npm ccreate vite@latest ./ to get new generation tool 
+
+./ means in current repository
+
+wow, we can select javascript variant with react and get it setup in seconds 
+
+npm install to get it setup 
+
+in the description, there's a zipped assets folder 
+
+https://www.youtube.com/watch?v=EyIvuigqDoA
+
+tail wind, utlity for styling using utlity classes 
+
+install npm tailwindcss postcss autoprefixer 
+
+add tail wind directives 
+
+npm install saver 
+
+set up routing for our application 
+
+file saver was all we're going to be using 
+
+we have to install react router dom
+
+npm run dev 
+
+mongopassword
+123123A
