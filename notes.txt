@@ -28,5 +28,15 @@ we have to install react router dom
 
 npm run dev 
 
-mongopassword
-123123A
+
+
+render 
+https://dashboard.render.com/web/srv-cg7mdsg2qv28u2ug6c00/env
+
+hostinger 
+
+the website 
+https://artifygen.com/
+
+mongodb Atlas
+https://cloud.mongodb.com/v2/640e734c5843914467f0e728#/security/network/accessList
